@@ -1,6 +1,3 @@
-// ============================================
-// File: src/components/report/BasicDetails.jsx
-// ============================================
 import React from 'react';
 import { FiUser, FiPhone, FiCreditCard, FiCalendar } from 'react-icons/fi';
 import Card from '../common/Card';

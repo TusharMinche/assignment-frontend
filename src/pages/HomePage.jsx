@@ -59,7 +59,7 @@ const HomePage = () => {
       {/* Features Grid */}
       <div className="mb-12">
         <h2 className="text-3xl font-bold text-gray-800 mb-8 text-center">
-          Why Choose CreditDetails?
+          Why Choose CreditSea?
         </h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           {features.map((feature, index) => (
@@ -125,9 +125,3 @@ const HomePage = () => {
 };
 
 export default HomePage;
-
-
-
-
-
-

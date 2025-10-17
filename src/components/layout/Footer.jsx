@@ -25,21 +25,18 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-3">Connect</h3>
             <div className="flex gap-4">
-              <a href="#" className="text-gray-400 hover:text-white transition">
+              <a href="https://github.com/TusharMinche" className="text-gray-400 hover:text-white transition">
                 <FiGithub className="text-xl" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition">
+              <a href="https://www.linkedin.com/in/tusharminche/" className="text-gray-400 hover:text-white transition">
                 <FiLinkedin className="text-xl" />
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white transition">
-                <FiMail className="text-xl" />
               </a>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-400">
-          <p>&copy; {new Date().getFullYear()} CreditDetails. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} TusharMinche. All rights reserved.</p>
         </div>
       </div>
     </footer>
